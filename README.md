@@ -2,7 +2,7 @@
 This repository contains a list of 30 short and simple skills badges you can earn to enhance your knowledge and expertise in various Google Cloud technologies and services.
 You can search name of these skill badges here: https://www.cloudskillsboost.google/catalog
 
-## Badge List
+## Badge List:
 
 1. *Analyze Sentiment with Natural Language API*
 2. *Cloud Speech API: 3 Ways*
